@@ -6,4 +6,4 @@ Developed site used only HTML, with the help of the course "Desenvolvimento Web 
 The goal of the project is to structure a simple website, with information from the institution and contact tab so that the user can use it if is necessary.
 
 👉Project Link: 
-https://itsmebru.github.io/ProjetoHTML/
+https://brunaroch.github.io/ProjetoHTML/
